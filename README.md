@@ -1,6 +1,7 @@
+[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fb6860107d5fad033d519367771dc48185ae1b0a41ec3d8edd34a53cb001a3d31%2F68747470733a2f2f6d61676963636f70792e78797a2f6173736574732f696d616765732f6861646465722e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&tbnid=CVLQvplLvZ78OM&vet=12ahUKEwjit_-gwMT7AhWEjtgFHe2rArQQMygCegUIARD3AQ..i&docid=CJdgcKdcN0j58M&w=680&h=428&q=animated%20coding%20gif&ved=2ahUKEwjit_-gwMT7AhWEjtgFHe2rArQQMygCegUIARD3AQ)
 <h1 align="center">Hi 👋, I'm Lalit Kumar Yadav</h1>
 <h3 align="center">I am learning like coding , Ai ,means learning stage</h3>
-<img align="right" alt="Coding" width="400" src="https://https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Coding like ,c++ ,java ,python and some Ai project**
 
