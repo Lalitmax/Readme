@@ -3,11 +3,11 @@
 <h3 align="center">I am learning like coding , Ai ,means learning stage</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Coding like ,c++ ,java ,python and some Ai project**
+- 🌱 Skills ** java With DSA , C++, Python**
 
-- 💬 Ask me about **C++ , python ,Ai and some DSA**
+- 💬 Ask me about **Java , DSA, Web Development **
 
-- 📫 How to reach me **LKY6202597@gmail.com**
+- 📫 How to reach me **lalitmaxy@gmail.com**
 
 - ⚡ Fun fact **If you want to play then play with code**
 
