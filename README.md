@@ -4,13 +4,12 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br><br>
-- 🌱 Skills ** java With DSA , C++, Python**
+- Skills ** java With DSA , C++, Python**
 
-- 💬 Ask me about **Java , DSA, Web Development **
+- Ask me about Java , DSA, Web Development (Reactjs)
+- How to reach me **lalitmaxy@gmail.com**
 
-- 📫 How to reach me **lalitmaxy@gmail.com**
-
-- ⚡ Fun fact **If you want to play then play with code**
+- Fun fact **If you want to play then play with code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
